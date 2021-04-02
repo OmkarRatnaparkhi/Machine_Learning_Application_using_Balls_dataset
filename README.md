@@ -35,6 +35,8 @@ find errors in order to modify the model accordingly.
 * For installing Scikit-learn library use command as : pip install -U scikit-learn
 * Scikit-learn(sklearn) is a free software machine learning library for the Python programming language.
 * It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.
+* In this application Decision Tree algorithm is used which is imported from Scikit-learn(sklearn) library.
+* Decision Trees (DTs) are a non-parametric supervised learning method used for classification and regression. The goal is to create a model that predicts the value of a target variable by learning simple decision rules inferred from the data features. A tree can be seen as a piecewise constant approximation. Reference :https://scikit-learn.org/stable/modules/tree.html
 
 ### Steps used to design this application :
 Step1: Get the data for the machine learning application. </br>
