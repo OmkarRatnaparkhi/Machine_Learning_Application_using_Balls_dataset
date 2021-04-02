@@ -20,5 +20,14 @@
   <img src="https://github.com/OmkarRatnaparkhi/Machine_Learning_Application_using_Balls_dataset/blob/main/Assets/1Supervised%20Machine%20Learning%20using%20Decision%20Tree%20Balls%20Dataset%20Application.pdf%20-%20Adobe%20Acrobat%20Reader%20DC%20(32-bit)%2002-04-2021%2010_30_55.png" alt="Diagram1">
 </p>
 
+### This Appication is example of Supervised machine learning:
+Supervised machine learning : Supervised machine learning algorithms can apply what has been learned in the past to
+new data using labeled examples to predict future events.
+Starting from the analysis of a known training dataset, the learning algorithm produces
+an inferred function to make predictions about the output values.
+The system is able to provide targets for any new input after sufficient training.
+The learning algorithm can also compare its output with the correct, intended output and
+find errors in order to modify the model accordingly.
+
 ### Algorithm used :- Decision tree algorithm
 
