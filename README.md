@@ -37,5 +37,5 @@ Step1: Get the data for the machine learning application. </br>
 Step2: Clean, prepare and manipulate that data. </br>
 Step3. Decide the machine learning algorithm and train the dataset. </br>
 Step4. Test the algorithm with some test dataset. </br>
-Step5. Depends on the test result improve the algorithm.  </br>
+Step5. Depending on the test result improve the algorithm.  </br>
 
