@@ -31,3 +31,10 @@ find errors in order to modify the model accordingly.
 
 ### Algorithm used :- Decision tree algorithm
 
+### Steps used to design this application :
+Step1: Get the data for the machine learning application.
+Step2: Clean, prepare and manipulate that data.
+Step3. Decide the machine learning algorithm and train the dataset
+Step4. Test the algorithm with some test dataset
+Step5. Depends on the test result improve the algorithm.
+
