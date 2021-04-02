@@ -37,6 +37,7 @@ find errors in order to modify the model accordingly.
 * It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.
 * In this application Decision Tree algorithm is used which is imported from Scikit-learn(sklearn) library.
 * Decision Trees (DTs) are a non-parametric supervised learning method used for classification and regression. The goal is to create a model that predicts the value of a target variable by learning simple decision rules inferred from the data features. A tree can be seen as a piecewise constant approximation. Reference: https://scikit-learn.org/stable/modules/tree.html
+* What is a decision tree ? :- A decision tree a tree like structure whereby an internal node represents an attribute, a branch represents a decision rule, and the leaf nodes represent an outcome. This works by splitting the data into separate partitions according to an attribute selection measure, which in this case is the Gini index (although we can change this to information gain if we wanted). This essentially means that we each split aims toreduce Gini impurity which measures how impure a node is according to incorrectly classified results.
 
 ### Steps used to design this application :
 Step1: Get the data for the machine learning application. </br>
