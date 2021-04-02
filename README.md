@@ -38,7 +38,17 @@ find errors in order to modify the model accordingly.
 * It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.
 * In this application Decision Tree algorithm is used which is imported from Scikit-learn(sklearn) library.
 * Decision Trees (DTs) are a non-parametric supervised learning method used for classification and regression. The goal is to create a model that predicts the value of a target variable by learning simple decision rules inferred from the data features. A tree can be seen as a piecewise constant approximation. <a href='https://scikit-learn.org/stable/modules/tree.html' target=_blank><u>(click here for reference)</u> </a>
-* What is a decision tree ? :- A decision tree a tree like structure whereby an internal node represents an attribute, a branch represents a decision rule, and the leaf nodes represent an outcome. This works by splitting the data into separate partitions according to an attribute selection measure, which in this case is the Gini index (although we can change this to information gain if we wanted). This essentially means that we each split aims toreduce Gini impurity which measures how impure a node is according to incorrectly classified results.
+
+### Decision tree :
+* A decision tree a tree like structure whereby an internal node represents an attribute, a branch represents a decision rule, and the leaf nodes represent an outcome. This works by splitting the data into separate partitions according to an attribute selection measure, which in this case is the Gini index (although we can change this to information gain if we wanted). This essentially means that we each split aims toreduce Gini impurity which measures how impure a node is according to incorrectly classified results.
+* Given a data of attributes together with its classes, a decision tree produces a sequence of rules that can be used to classify the data.
+* Decision tree builds classification or regression models in the form of a tree structure. It breaks down a data set into smaller and smaller subsets while at the same time an
+associated decision tree is incrementally developed.
+* The final result is a tree with decision nodes and leaf nodes.
+* A decision node has two or more branches and a leaf node represents a classification or decision.
+* The topmost decision node in a tree which corresponds to the best predictor called root node. Decision trees can handle both categorical and numerical data.
+* Advantages: Decision Tree is simple to understand and visualise, requires little data preparation, and can handle both numerical and categorical data.
+* Disadvantages: Decision tree can create complex trees that do not generalise well, and decision trees can be unstable because small variations in the data might result in a completely different tree being generated.
 
 ### Steps used to design this application :
 Step1: Get the data for the machine learning application. </br>
