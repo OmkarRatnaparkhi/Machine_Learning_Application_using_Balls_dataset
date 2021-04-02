@@ -30,7 +30,11 @@ The system is able to provide targets for any new input after sufficient trainin
 The learning algorithm can also compare its output with the correct, intended output and
 find errors in order to modify the model accordingly.
 
-### Algorithm used :- Decision tree algorithm
+### sklearn machine learning library:
+* Scikit-learn machine learning library is used in this application.
+* For installing Scikit-learn library use command as : pip install -U scikit-learn
+* Scikit-learn(sklearn) is a free software machine learning library for the Python programming language.
+* It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.
 
 ### Steps used to design this application :
 Step1: Get the data for the machine learning application. </br>
