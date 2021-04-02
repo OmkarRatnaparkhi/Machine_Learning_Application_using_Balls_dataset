@@ -1,5 +1,5 @@
 # Machine_Learning_Application_using_Balls_dataset
-Note: This is just basic machine learning application for learning purpose.
+Note : This is just basic machine learning application for learning purpose.
 
 ### Description :
 * Below application uses Decision Tree algorithm to classify the type of ball.
